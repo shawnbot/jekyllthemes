@@ -11,9 +11,10 @@ license: CC0-1.0
 license_link: https://github.com/18F/jekyll-uswds/blob/master/LICENSE.md
 ---
 
-This is a Gem-based theme that implements the [U.S. Web Design Standards] and
-provides flexible options for configuring common elements such as your site
-header, footer, and navigation. This is intended for U.S. government sites,
-but anyone can use it!
+This theme implements the [U.S. Web Design Standards] and provides flexible
+options for configuring common elements such as your site header, footer, and
+navigation.
+
+This is intended for U.S. government sites, but anyone can use it!
 
 [U.S. Web Design Standards]: https://standards.usa.gov/
