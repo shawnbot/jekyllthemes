@@ -3,18 +3,18 @@ layout: post
 title: U.S. Web Design Standards
 date: 2017-03-07 15:46:50
 homepage: https://github.com/18F/jekyll-uswds
-download: https://github.com/18F/jekyll-uswds/archive/master.zip
 demo: https://federalist-proxy.app.cloud.gov/site/18f/federalist-uswds-template/
 author: 18F
 thumbnail: uswds.png
-license: CC0-1.0
+license: Creative Commons
 license_link: https://github.com/18F/jekyll-uswds/blob/master/LICENSE.md
 ---
 
 This theme implements the [U.S. Web Design Standards] and provides flexible
 options for configuring common elements such as your site header, footer, and
-navigation.
+navigation. See the [documentation] for more information.
 
-This is intended for U.S. government sites, but anyone can use it!
+This is intended for use by the U.S. government, but anyone can use it!
 
 [U.S. Web Design Standards]: https://standards.usa.gov/
+[documentation]: https://github.com/18F/jekyll-uswds#readme
